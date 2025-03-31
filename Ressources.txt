@@ -1,0 +1,3 @@
+Ressources for Perovskite Badn gap prediction
+
+https://github.com/chenebuah/perovskite-ML/tree/main
